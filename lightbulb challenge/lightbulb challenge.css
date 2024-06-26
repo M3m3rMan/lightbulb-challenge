@@ -1,0 +1,21 @@
+.canvas{
+    width: 600px;
+    height: 500px;
+    margin: 50px auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.bulb-off{
+    width: 265px;
+    height: 400px;
+    @import url:('/Users/txthackathon/Desktop/realistic-modern-light-bulb-off-vector-14042537.jpg') no-repeat;
+    margin: auto;
+}
+
+.bulb-on{
+    width: 265px;
+    height: 400px;
+    image: url('https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/512x512/shadow/lightbulb_on.png') no-repeat;;
+    margin: auto;
+}
